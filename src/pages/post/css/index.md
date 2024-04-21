@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/Layoutmd.astro"
 title: CSS Structure
-date: 23 Septiembre del 2024
+date: 21 Septiembre del 2024
 author: Benito Camelo
 desc:  Lorem, ipsum dolor sit amet consectetur adipisicing elit. Commodi tempore ad nemo quia dolorum cupiditate distinctio velit enim modi! Pariatur quasi quia reprehenderit dolores nam fugiat dignissimos voluptatem beatae non.
 image: https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_640.png
